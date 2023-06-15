@@ -8,6 +8,7 @@ Eat the Fish that are smaller than you and avoid the ones that are bigger than y
 
 ## How to Play
 
+link to game: https://mrdiamonddirt.github.io/fishfrenzy/
 Use the arrow keys to move the fish around the screen.
 
 ## How to Run
